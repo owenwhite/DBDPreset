@@ -1,6 +1,6 @@
 # DBDPreset
 
-Dead by Daylight Reshade preset ( setting Reashade ).
+Dead by Daylight Reshade preset ( setting Reshade ).
 
 If it's too light, add gamma through the video card filters ( -48 )
 
